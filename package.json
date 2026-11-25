@@ -1,0 +1,28 @@
+{
+  "name": "social-media-command-center",
+  "private": true,
+  "type": "module",
+  "scripts": { "dev": "vite", "build": "vite build", "test": "vitest run" },
+  "dependencies": {
+    "clsx": "2.1.1",
+    "lucide-react": "0.575.0",
+    "pdfjs-dist": "4.10.38",
+    "react": "19.2.0",
+    "react-dom": "19.2.0",
+    "read-excel-file": "5.8.8",
+    "recharts": "2.15.4",
+    "tailwind-merge": "3.5.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "4.2.1",
+    "@types/react": "19.2.0",
+    "@types/react-dom": "19.2.0",
+    "@vitejs/plugin-react": "5.2.0",
+    "jsdom": "20.0.3",
+    "tailwindcss": "4.2.1",
+    "typescript": "5.8.3",
+    "vite": "7.1.12",
+    "vite-plugin-singlefile": "2.3.0",
+    "vitest": "3.2.4"
+  }
+}
